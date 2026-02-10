@@ -31,6 +31,7 @@ Inputting 0 and 1 codes manually is the most fundamental way to interact with a 
 
 ### 📊 Circuit Diagram
 ![Circuit Diagram](MPCP-CircuitDiagram.png)
+### Project video on Linkedin: https://www.linkedin.com/posts/srijan-das-ece_ece-embeddedsystems-arduino-activity-7427000228769128449-MB56?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGCIe28BBUst2bf5pDQ2LzoRLawjfD1_vE4
 
 ### 📦 Components Needed: 
 * **1x Arduino Nano** (ATmega328P Microcontroller)
@@ -55,4 +56,3 @@ Inputting 0 and 1 codes manually is the most fundamental way to interact with a 
 **Srijan Das**
 * 1st Sem ECE Student at MAKAUT.
 * *"Born 🌟 to Create and build 🔥"*.
-*
